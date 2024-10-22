@@ -13,3 +13,6 @@ This Power BI project delves into the results of a comprehensive survey conducte
 - **Interactive Dashboards**: Creating dynamic and interactive visualizations for deeper insights.
 
 This project showcases my expertise in Power BI, including data manipulation, visualization, and storytelling through data.
+
+**Dashboard**
+![Data Professional Survey](https://github.com/user-attachments/assets/3962de57-ce90-43e7-8a35-d81b07346754)
